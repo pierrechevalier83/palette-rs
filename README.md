@@ -5,6 +5,10 @@ A little utility to display your terminal's color palette written in rust
 
 ![alt tag](https://github.com/pierrechevalier83/matrix_display/blob/master/screenshots/palette.png)
 
+Install (the easy way)
+----------------------
+`cargo install palette-rs`
+
 Download
 --------
 `git clone git@github.com:pierrechevalier83/palette-rs.git`
