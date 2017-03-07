@@ -1,0 +1,3 @@
+[submodule "aur/palette-rs"]
+	path = aur/palette-rs
+	url = ssh://aur@aur.archlinux.org/palette-rs.git
