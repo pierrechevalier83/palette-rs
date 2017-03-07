@@ -7,7 +7,10 @@ A little utility to display your terminal's color palette written in rust
 
 Install (the easy way)
 ----------------------
-`cargo install palette-rs`
+- On Arch Linux
+  `yaourt palette-rs`
+- With cargo:
+  `cargo install palette-rs`
 
 Download
 --------
